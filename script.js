@@ -2,7 +2,7 @@ function firstWord(s) {
   // your code here
 
 	string s = s.trim();
-	cont word = s.split(' ');
+	cont word = s.split(" ");
 	return word[0];
 }
 
